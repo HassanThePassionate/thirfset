@@ -1,0 +1,31 @@
+{
+  "url": "https://thriftbins.com/contact/",
+  "fetchedAt": "2026-05-15T15:03:45.377Z",
+  "title": "Contact Us | Thrift Bins",
+  "meta": {
+    "description": "Get in touch with the Thrift Bins team. Share new store findings, updates, or asking questions about bin stores near you."
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Contact Us"
+    },
+    {
+      "tag": "h3",
+      "text": "Email Us"
+    },
+    {
+      "tag": "h3",
+      "text": "Sharing store updates? Awesome!"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "href": "https://thriftbins.com/cdn-cgi/l/email-protection#c3a0acadb7a2a0b783b7abb1aaa5b7a1aaadb0eda0acae",
+      "text": "[email protected]"
+    }
+  ],
+  "text": "Contact UsHey treasure hunter! 👋Found an awesome new bin store? Need help finding deals in your area? Drop us a line – we love hearing from fellow thrifters!Email Us[email protected]Sharing store updates? Awesome!Just let us know:The store nameWhere to find itIf it’s new, closed, or changedAny cool details about itWe’ll get back to you super quick (usually within a day). Happy hunting! 🎯",
+  "htmlMain": "<div class=\"container px-4 mx-auto py-12 md:py-20 max-w-4xl\"><h1 class=\"text-4xl md:text-5xl font-black text-gray-900 mb-8 tracking-tight\">Contact Us</h1><div class=\"max-w-2xl mx-auto\"><div class=\"bg-white rounded-2xl p-8 md:p-12 shadow-xl shadow-purple-900/5 border border-purple-100\"><div class=\"prose prose-lg prose-purple text-gray-600 max-w-none\"><p class=\"text-xl leading-relaxed text-gray-800 font-medium mb-8\">Hey treasure hunter! 👋</p><p class=\"mb-8\">Found an awesome new bin store? Need help finding deals in your area? Drop us a line – we love hearing from fellow thrifters!</p><div class=\"bg-purple-50 rounded-xl p-8 border border-purple-100 my-10 text-center\"><h3 class=\"text-sm font-bold text-purple-600 uppercase tracking-widest mb-2\">Email Us</h3><a href=\"/cdn-cgi/l/email-protection#c3a0acadb7a2a0b783b7abb1aaa5b7a1aaadb0eda0acae\" class=\"text-2xl md:text-3xl font-black text-gray-900 hover:text-purple-600 transition-colors break-words\"><span class=\"__cf_email__\" data-cfemail=\"53303c3d2732302713273b213a3527313a3d207d303c3e\">[email&nbsp;protected]</span></a></div><h3 class=\"text-2xl font-bold text-gray-900 mt-12 mb-6\">Sharing store updates? Awesome!</h3><p class=\"mb-4\">Just let us know:</p><ul class=\"list-disc pl-5 space-y-3 mb-10 text-gray-700\"><li class=\"font-medium\">The store name</li><li class=\"font-medium\">Where to find it</li><li class=\"font-medium\">If it’s new, closed, or changed</li><li class=\"font-medium\">Any cool details about it</li></ul><p class=\"text-gray-500 italic border-t border-gray-100 pt-8\">We’ll get back to you super quick (usually within a day). Happy hunting! 🎯</p></div></div></div></div><!--$--><!--/$-->"
+}
