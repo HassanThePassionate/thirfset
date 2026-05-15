@@ -25,6 +25,11 @@ import {
   GoodwillBinsSection,
   WhereFromMapSection,
 } from "@/components/home/HomeDirectorySections";
+import { useEffect } from "react";
+
+const HOME_TITLE = "BinIndex — America's Premium Bin Store & Liquidation Directory";
+const HOME_DESCRIPTION =
+  "Discover America's best bin stores, Amazon return outlets, liquidation warehouses and pallet stores. Verified, mapped, and curated.";
 
 export const Route = createFileRoute("/")({
   component: HomePage,
@@ -67,6 +72,12 @@ const trendingStores = [
 ];
 
 function HomePage() {
+  useEffect(() => {
+    document.title = HOME_TITLE;
+    const meta = document.querySelector('meta[name="description"]');
+    if (meta) meta.setAttribute("content", HOME_DESCRIPTION);
+  }, []);
+
   return (
     <div className="min-h-screen bg-background text-foreground">
       <Nav />
